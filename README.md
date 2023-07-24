@@ -1,5 +1,5 @@
-# ProjetoVeiculos
+# VehiclesProject
 
-Projeto realizado para a diciplica de Programação Orientada a Objetos.
+Project developed for the Object-Oriented Programming course.
 
-O programa cadastra veiculos e realiza calculos com os dados cadastrados.
+The program registers vehicles and performs calculations with the registered data.
